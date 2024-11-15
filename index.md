@@ -8,7 +8,7 @@ title: "Home"
     <h3 class="fw-bold">Hi!</h3>
     Hi! I'm Karthik a second-year PhD student at Purdue University. My broad interests lie in algebraic geometry and topology. I'm currently working under the supervision of Prof. Deepam Patel.
 
-I received my bachelors (BS) and masters (MS) degrees from the <a href = "https://www.iiserpune.ac.in/"" target = "_blank"> IISER Pune</a>>. I completed my Master's Thesis titled <a href="https://drive.google.com/file/d/1ypkLFiAS1-47RaWU6s0rttsfovjU_eLk/view?usp=sharing)" target="_blank">Fibrations over Topological Groups</a> under the supervision of <a href = "https://sites.google.com/site/steventspallone/">Prof. Steven Spallone</a>.
+I received my bachelors (BS) and masters (MS) degrees from the <a href = "https://www.iiserpune.ac.in/"" target = "_blank"> IISER Pune</a>>. I completed my Master's Thesis titled <a href="https://drive.google.com/file/d/1ypkLFiAS1-47RaWU6s0rttsfovjU_eLk/view?usp=sharing)" target="_blank">Fibrations over Topological Groups</a> under the supervision of <a href = "https://sites.google.com/site/steventspallone/" target="_blank">Prof. Steven Spallone</a>.
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/home.jpg" alt="Home" width="100%">
