@@ -14,7 +14,7 @@ margin-top: -4px;
 2. (2024) Existence of Lefschetz Pencils
    >*Weil Conjecture Learning Seminar*
 
-3. Local Systems and Monodromy
+3. (2024) Local Systems and Monodromy
    >*Weil Conjecture Learning Seminar* 
  
 
