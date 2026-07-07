@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
- <h3 class="fw-bold">Research</h3>
+#### **Research** 
 
-Reading Projects
+*Coming Soon!*
 
