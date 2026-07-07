@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
  <h3 class="fw-bold">Talks</h3>
- <ol></ol>
+ <ol>
  <li>
  A Proof of the Local Monodromy Theorem  |  Purdue Algebraic Geometry Seminar (Spring 2026)  |  Purdue University
  </li>
@@ -21,6 +21,6 @@ permalink: /talks/
   <li> 
     Universal Algebra and Category Theory  | Math Club Talk (Spring 2021)  | Indian Institute for Science Education and Research (IISER) Pune
  </li>
- 
+ </ol>
  
   
