@@ -11,7 +11,7 @@ margin-top: -4px;
 1. (2026) A Proof of the Local Monodromy Theorem
    >*Purdue Algebraic Geometry Seminar* 
 
-2. Existence of Lefschetz Pencils
+2. (2024) Existence of Lefschetz Pencils
    >*Weil Conjecture Learning Seminar*
 
 3. Local Systems and Monodromy
