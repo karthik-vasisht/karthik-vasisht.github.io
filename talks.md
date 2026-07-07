@@ -9,7 +9,9 @@ permalink: /talks/
   <li>
  A Proof of the Local Monodromy Theorem  |  Purdue Algebraic Geometry Seminar (Spring 2026)  |  Purdue University
  </li>
- Existence of Lefschetz Pencils  |  Weil Conjecture Learning Seminar (Fall 2024)  |  Purdue University 
+ <li>
+  Existence of Lefschetz Pencils  |  Weil Conjecture Learning Seminar (Fall 2024)  |  Purdue University 
+ <\li>
  <li> 
   Local Systems and Monodromy  |  Weil Conjecture Learning Seminar (Fall 2024)  |  Purdue University 
  </li>
