@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 ---
 
- <h3 class="fw-bold">Talks</h3>
+ <h3 class="fw-semibold">Talks</h3>
  <ol>
  <li>
  A Proof of the Local Monodromy Theorem  |  Purdue Algebraic Geometry Seminar (Spring 2026)  |  Purdue University
